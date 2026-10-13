@@ -1,0 +1,1 @@
+{"version":3,"file":"depositInput.d.ts","sourceRoot":"","sources":["../../../src/generated/types/depositInput.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AACH,OAAO,KAAK,EAAE,aAAa,EAAE,MAAM,iBAAiB,CAAC;AAErD,MAAM,WAAW,YAAY;IAC3B,MAAM,EAAE,aAAa,CAAC;IACtB;;;SAGK;IACL,MAAM,EAAE,MAAM,CAAC;IACf;;;SAGK;IACL,YAAY,EAAE,MAAM,CAAC;IACrB;;;SAGK;IACL,aAAa,EAAE,MAAM,CAAC;CACvB"}
